@@ -35,9 +35,9 @@ To assess the **spatial and temporal patterns** of precipitation and its **extre
 
 #### 2.2 Climatic Extremes
 - Analyzed temporal and spatial trends in precipitation thresholds:
-  - **PRCP ≥ 1 mm** (wet days)  
-  - **PRCP ≥ 10 mm** (moderate rain)  
-  - **PRCP ≥ 20 mm** (heavy rain)  
+  - **PRCP ≥ 1 mm** (Wet days)  
+  - **PRCP ≥ 10 mm** (Heavy Precipitation Days)  
+  - **PRCP ≥ 20 mm** (Very Heavy Precipitation Days)
 - Calculated **R95p** and **R99p** indices:
   - Annual total precipitation on days exceeding the 95th and 99th percentiles  
   - Reference period: **1995–2015**
@@ -53,6 +53,10 @@ To assess the **spatial and temporal patterns** of precipitation and its **extre
 
 ---
 
-## Author
-Pratistha Katwal
+## Contact
+**Author**: Pratistha Katwal
+
+If you're interested in collaborating or conducting further research in this area, please feel free to contact me.
+
+
 
